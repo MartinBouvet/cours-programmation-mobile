@@ -1,0 +1,3 @@
+class AppVectorialImages {
+  AppVectorialImages._();
+}
